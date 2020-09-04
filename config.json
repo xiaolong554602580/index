@@ -1,0 +1,19 @@
+{
+	"table":{
+		"TN":"NTD單號",
+		"PJ":"項目",
+		"TR":"測試報告",
+		"AP":"申請人",
+		"DR":"收單日期",
+		"RD":"要求完成日期",
+		"ID":"發出報告日期",
+		"DLSD":"DavidLeung簽名日期",
+		"DLAD":"DavidLeung批准/不批准",
+		"SLSD":"SamuelLeung簽名日期",
+		"SLAD":"SamuelLeung確認/不確認",
+		"Tester":"測試員",
+		"MSSD":"MSS簽收日期",
+		"UD":"更新日期",
+		"RM":"備註"
+	}
+}
